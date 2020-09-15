@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/timofey/esp/tcp/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/timofey/esp/tcp/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/timofey/esp/tcp/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/timofey/esp/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/timofey/esp/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/timofey/esp/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/timofey/esp/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		},
+		{
+			"file" : "/home/timofey/esp/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/timofey/esp/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/timofey/esp/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
